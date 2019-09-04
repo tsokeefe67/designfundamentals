@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "utf-8">
+		<title></title>
+	</head>
+	
+	<body>
+	<h1>Shane O'Keefe</h1>
+	<p>Welcome to my resume page</p>
+	<h2>Skills</h2>
+	<ul>
+	<li>Photoshop</li>
+	<li>Illustrator</li>
+	<li>C++</li>
+	<li>Clip Studio Paint</li>
+	<li>Javascript</li>
+	<li>CSS</li>
+	<li>Web Development</li>
+	<li>Adobe Animate</li>
+	<li>Toon Boom Harmony</li>
+	<li>After Effects</li>
+	<li>Vegas Pro 15</li>
+	</ul>
+	<h2>Websites</h2>
+	<p><a href ="https://github.com/tsokeefe67/designfundamentals">Github</a><br>
+	<a href ="https://www.artstation.com/shaneok64">Artstation</a><br></p>
+	<h2>Sample Works</h2>
+	<ul>
+	<li><img src= "1.png"></li>
+	<li><img src= "2.png"></li>
+	<li><img src= "3.png"></li>
+	<li><img src= "4.png"></li>
+	<li><img src= "5.png"></li>
+	</body>
+</html>
